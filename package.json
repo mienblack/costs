@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1",
+    "react-icons": "^4.7.1",
+    "react-router-dom": "^6.4.4",
+    "uuid": "^9.0.0"
+  },
+  "name": "costs",
+  "description": "Site de controle financeiro",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mienblack/costs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mienblack/costs/issues"
+  },
+  "homepage": "https://github.com/mienblack/costs#readme"
+}

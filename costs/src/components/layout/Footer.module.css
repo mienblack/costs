@@ -1,0 +1,43 @@
+.footer {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background-color: #222;
+    color: white;
+    padding: 1em;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.socialList {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+}
+
+.socialList li {
+    margin: 0 1em;
+    font-size: 1.2em;
+}
+
+.socialList a {
+    text-decoration: none;
+    color: white;
+}
+
+.socialList a:hover {
+    color: #ffbb33;
+}
+
+.ref {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    font-size: 0.7rem;
+}
+
+.refSpan{
+    color: #ffbb33;
+    font-weight: bold;
+}
