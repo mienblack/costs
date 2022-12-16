@@ -5,7 +5,7 @@ import styles from './Footer.module.css'
 function Footer() {
     return (
         <footer className={styles.footer}>
-            
+
             <ul className={styles.socialList}>
                 <li>
                     <Link>
@@ -13,12 +13,12 @@ function Footer() {
                     </Link>
                 </li>
                 <li>
-                    <Link>
+                    <Link href="https://www.linkedin.com/in/damien-costa/" target="_blank">
                         <FaLinkedin />
                     </Link>
                 </li>
                 <li>
-                    <Link>
+                    <Link href="https://github.com/mienblack" target="_blank">
                         <FaGithub />
                     </Link>
                 </li>

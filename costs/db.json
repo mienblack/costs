@@ -30,6 +30,17 @@
       "costs": 0,
       "services": [],
       "id": 6
+    },
+    {
+      "name": "Projeto Teste",
+      "budget": "4000",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "costs": 0,
+      "services": [],
+      "id": 7
     }
   ]
 }
