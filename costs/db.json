@@ -7,20 +7,38 @@
         "id": "3",
         "name": "Design"
       },
-      "costs": 0,
+      "cost": 0,
       "services": [],
       "id": 1
     },
     {
-      "name": "Projeto Teste 2",
-      "budget": "4500",
+      "name": "Projeto Teste 2 atualizado 2",
+      "budget": "9000",
       "category": {
         "id": "1",
         "name": "Infra"
       },
-      "costs": 0,
+      "cost": 0,
       "services": [],
       "id": 2
+    },
+    {
+      "name": "Terceiro Projeto",
+      "budget": "2900",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "cost": 344,
+      "services": [
+        {
+          "name": "bicuddlsie",
+          "cost": "344",
+          "description": "bchdh",
+          "id": "b103e9d4-b1a4-47f5-af87-aa84aa194edb"
+        }
+      ],
+      "id": 3
     }
   ],
   "categories": [
